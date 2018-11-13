@@ -1,0 +1,21 @@
+{
+  "name": "nodekb",
+  "description": "simple knowledgebase app",
+  "main": "app.js",
+  "authors": [
+    "chrishe"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/DrHe1991/simple_blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
